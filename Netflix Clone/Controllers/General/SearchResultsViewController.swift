@@ -1,9 +1,3 @@
-//
-//  SearchResultsViewController.swift
-//  Netflix Clone
-//
-//  Created by Amr Hossam on 31/12/2021.
-//
 
 import UIKit
 
